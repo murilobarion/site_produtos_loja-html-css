@@ -18,15 +18,3 @@ HTML5: Utilizado para a estruturação semântica de todo o conteúdo do site.
 CSS3: Responsável por toda a estilização visual, incluindo layout, cores, fontes e transições.
 
 Google Fonts: O projeto utiliza as fontes 'Outfit' e 'Montserrat' para aprimorar a tipografia.
-
-Estrutura do Projeto
-O diretório do projeto está organizado da seguinte forma:
-
-/
-├── index.html       # Página inicial
-├── produtos.html    # Página de listagem de produtos
-├── contato.html     # Página de informações de contato
-├── style.css        # Folha de estilos principal
-└── img/
-    ├── item1.jpeg   # Imagem de produto
-    └── item2.jpeg   # Imagem de produto
